@@ -1,0 +1,1 @@
+Just a little proggram i made myself in a half of hour , it's pretty simple cuz im not a pro , here is just a little player that open's the music in your browser , there is only 2 artists , me and Rory in ealry20s .
